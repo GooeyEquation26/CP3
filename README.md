@@ -7,10 +7,10 @@ The main ideas of the class were
 * The difference between this, and super
 ## Description: 
 
-# We mainly worked on learning how different classes interact with each other.
-# Such as how super effects the parent class and how this effects class specific data to that class
+### We mainly worked on learning how different classes interact with each other.
+### Such as how super effects the parent class and how this effects class specific data to that class
 
-# We also learned about the extension of a class with the word extends 
+### We also learned about the extension of a class with the word extends 
 
 ```java
 
